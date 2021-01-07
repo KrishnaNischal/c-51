@@ -4,10 +4,8 @@ h1{
 *{
     border: solid;
 }
-.header{
-    background-color: aqua;
-    display:flex;
-    justify-content:space-between;
+body{
+    background-color:#808080;
 }
 .grid{
     display:flex;
